@@ -5,7 +5,7 @@ Home: https://github.com/sam-washington/requests-aws4auth
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: AWS4 authentication for Requests
 
