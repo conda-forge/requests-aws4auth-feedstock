@@ -1,5 +1,5 @@
 {% set name = "requests-aws4auth" %}
-{% set version = "1.1.1" %}
+{% set version = "1.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: c0883346ce30b5018903a67da88df72f73ff06e1a320845bba9cd85e811ba0ba
+  sha256: 72ee0814498d16cd9510226bad2afdf7f23c161696e9d4b701bf8fdc2c63b633
 
 build:
   noarch: python
